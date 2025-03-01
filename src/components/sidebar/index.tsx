@@ -8,7 +8,7 @@ import {
   PanelBottom,
   Settings2,
   ShoppingBag,
-  ShoppingBagIcon,
+//ShoppingBagIcon,
   Users,
 } from "lucide-react";
 import { TooltipProvider, Tooltip, TooltipTrigger, TooltipContent } from "@radix-ui/react-tooltip";
